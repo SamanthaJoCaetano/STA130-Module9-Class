@@ -1,5 +1,5 @@
 ---
-title: "STA130: Module 8 R Demo"
+title: "STA130: Module 9 R Demo"
 output:
   pdf_document: default
   html_notebook: default
